@@ -4,7 +4,7 @@ Welcome to the HTML e-commerce Fashion Site, a responsive and dynamic website bu
 
 ## Live Demo
 
-You can explore the live demo of the site [here](https://html-ecommerce-lifestyle.app).
+You can explore the live demo of the site [here](https://html-ecommerce-lifestyle.netlify.app).
 
 
 ## Key Features
